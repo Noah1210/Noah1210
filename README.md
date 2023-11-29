@@ -1,6 +1,6 @@
 ### Hi I'm Noah 👋
 
-I am a third-year software engineering student pursuing my bachelor's degree, specializing in full-stack development. Currently, I am gaining practical experience through a cooperative education program at Cideco, a company focused on "Ingénierie du Bâtiment" (Building Engineering).
+I am a third-year software engineering student pursuing my bachelor's degree in France, specializing in full-stack development. Currently, I am gaining practical experience through a cooperative education program at Cideco, a company focused on building engineering).
 
 - 🏢 I'm currently working on a web app at Cideco.
 - 📖 I'm learning about new technologies in both front-end and back-end development.

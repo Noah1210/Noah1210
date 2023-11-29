@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi I'm Noah 👋
 
-<!--
-**Noah1210/Noah1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year software engineering student pursuing my bachelor's degree, specializing in full-stack development. Currently, I am gaining practical experience through a cooperative education program at Cideco, a company focused on "Ingénierie du Bâtiment" (Building Engineering).
 
-Here are some ideas to get you started:
+- 🏢 I'm currently working on a web app at Cideco.
+- 📖 I'm learning about new technologies in both front-end and back-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Tools
+
+- **Backend:** Java, Spring boot, PHP, Python, Django
+- **Frontend:** HTML, CSS, JavaScript, Angular
+- **Database:** MySQL, PostgreSQL
+- **Version Control:** Git, GitHub
+- **Other:** RESTful APIs
+
+## 🌐 Get in touch
+
+- Porfolio : (https://noahpardon.netlify.app/)
+
+## 🤝 Let's Collaborate
+
+I am actively looking for collaboration and would love to participate on an open source project. Feel free to reach out for a chat.
+
+
+Thank you for visiting my GitHub profile!

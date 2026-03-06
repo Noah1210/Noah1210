@@ -1,9 +1,9 @@
 ### Hi I'm Noah 👋
 
-I am a third-year software engineering student pursuing my bachelor's degree in France, specializing in full-stack development. Currently, I am gaining practical experience through a cooperative education program at Cideco, a company focused on building engineering).
+I am a fourth-year software engineering student pursuing my master's degree in France, specializing in full-stack development. Currently researching for more practical experience through a cooperative education program.
 
-- 🏢 I'm currently working on a web app at Cideco.
-- 📖 I'm learning about new technologies in both front-end and back-end development.
+- 🏢 I'm currently working on a Swift app.
+- 📖 I'm learning about new technologies related to mobile development.
 
 ## 💻 Technologies & Tools
 
@@ -16,10 +16,3 @@ I am a third-year software engineering student pursuing my bachelor's degree in 
 ## 🌐 Get in touch
 
 - Porfolio : (https://noahpardon.netlify.app/)
-
-## 🤝 Let's Collaborate
-
-I am actively looking for collaboration and would love to participate on an open source project. Feel free to reach out for a chat.
-
-
-Thank you for visiting my GitHub profile!
